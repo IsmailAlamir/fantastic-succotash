@@ -1,8 +1,12 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.your.package.name",
-    "sha256_cert_fingerprints": ["YOUR_SHA256_FINGERPRINT"]
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.example.fantastic_succotash",
+      "sha256_cert_fingerprints": [
+        "0F:3B:CC:31:01:CC:49:A0:70:98:AA:FE:5B:71:33:A3:C7:C6:96:04:B3:E7:38:13:BE:6B:A6:69:A0:75:55:DA"
+      ]
+    }
   }
-}]
+]
